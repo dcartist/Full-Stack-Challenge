@@ -34,11 +34,11 @@ Your project must satisfy the following requirements:
 
 ## FAQ
 
-#### **Do I need to do full CRUD?**
+#### Do I need to do full CRUD?
 
 Yes, you must be able to do **FULL CRUD** from the front end. You can use axios or fetch to help with those API calls.
 
-Axis cheatsheet: https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+Axios cheatsheet: https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
 
 #### **Why am I getting CORS errors?**
 
