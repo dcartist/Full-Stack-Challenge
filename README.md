@@ -54,7 +54,7 @@ https://www.npmjs.com/package/cors
 npm i cors
 ```
 
-Keep `app.use(cors())` to the top of your api
+Keep `app.use(cors())` to the top of your index.js or app.js or whatever your file name you use to run your api
 
 ```javascript
 var express = require('express')
