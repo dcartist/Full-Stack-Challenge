@@ -8,7 +8,7 @@ Your project must satisfy the following requirements:
 
 - Be built using HTML/CSS, EJS, REACT JS, Django or Flask.
 
-- Must be able to do full CRUD from the front end.
+- Must be able to do **full** **CRUD** from the front end.
 
 - Runs without errors
 
@@ -34,19 +34,19 @@ Your project must satisfy the following requirements:
 
 ## FAQ
 
-**Do I need to do full CRUD?**
+#### **Do I need to do full CRUD?**
 
 Yes, you must be able to do **FULL CRUD** from the front end. You can use axios or fetch to help with those API calls.
 
 Axis cheatsheet: https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
 
-**Why am I getting CORS errors?**
+#### **Why am I getting CORS errors?**
 
 You have cross-browser issues, and the only way to solve it is to make sure your API has CORS to allow others to use it.
 
 
 
-**For Express**:
+##### **For Express**:
 
 https://www.npmjs.com/package/cors
 
@@ -78,11 +78,11 @@ https://flask-cors.readthedocs.io/en/latest/
 
 
 
-**What if my API is missing routes that I need for my front end to work properly?**
+#### **What if my API is missing routes that I need for my front end to work properly?**
 
 Then adjust your API to work the way you want it to.
 
-**What if I suck at design?**
+#### **What if I suck at design?**
 
 Look at websites, find a design you like, and try to mock the design. Plan it out; you got this! Here are two links to lists of excellent sites.
 
