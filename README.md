@@ -1,6 +1,6 @@
 # FULL-STACK CHALLENGE
 
-You will be creating a front-end with the API that you created in the backend challenge. You can use HTML/CSS, EJS, REACT JS, Django or Flask. 
+You will be creating a front-end with the API that you created in the [backend challenge](https://github.com/dcartist/Backend-challenge). You can use HTML/CSS, EJS, REACT JS, Django or Flask. 
 
 ## Requirements
 
